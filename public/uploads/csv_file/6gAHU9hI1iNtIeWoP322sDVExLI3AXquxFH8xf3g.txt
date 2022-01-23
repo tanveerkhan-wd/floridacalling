@@ -1,0 +1,349 @@
+icon,name
+,120 AC
+,120 DC
+,220 AC
+,220 DC
+,24-hour coffee shop
+,24-hour food & beverage kiosk
+,24-hour front desk
+,24-hour room service
+,24-hour security
+,Accessible facilities
+,Accessible parking
+,Accessible rooms
+,Additional services/amenities/facilities on property
+,Adjoining rooms
+,Aerobics instruction
+,Air conditioning
+,Airline desk
+,Airport shuttle service
+,Alcoholic beverages
+,All public areas non-smoking
+,All-inclusive meal plan
+,ATM/Cash machine
+,Baby kit
+,Baby sitting
+,Baggage hold
+,Ballroom
+,Bank
+,Banking services
+,Banquet facilities
+,Barbeque grills
+,Barber shop
+,BBQ/Picnic area
+,Beach bar
+,Beachfront
+,Beauty shop/salon
+,Beer garden
+,Bell staff/porter
+,Beverage/cocktail
+,Bicycle rentals
+,Bilingual staff
+,Boarding pass print-out available
+,Body scrub
+,Body wrap
+,Bookstore
+,Boutiques/stores
+,Brailed elevators
+,Breakfast served in restaurant
+,Buffet breakfast
+,"Building meets local, state and country building codes"
+,Bus parking
+,Business center
+,Business library
+,Business services
+,Butler service
+,Cafe bar
+,Car rental desk
+,Carryout breakfast
+,Casino
+,Catering services
+,Cell phone rental
+,Check cashing policy
+,Check-in kiosk
+,Child programs
+,Children not allowed
+,Children programs
+,Children welcome
+,Children's breakfast
+,Children's clothing
+,Children's nursery
+,Children's play area
+,Cloakroom service
+,Clothing store
+,Cocktail lounge
+,Cocktail lounge with entertainment
+,Cocktail lounge with light fare
+,Coffee lounge
+,Coffee shop
+,Coffee/tea
+,Coin operated laundry
+,Communal bar area
+,Complimentary breakfast
+,Complimentary buffet breakfast
+,Complimentary cocktails
+,Complimentary coffee in lobby
+,Complimentary continental breakfast
+,Complimentary full american breakfast
+,Complimentary in-room coffee or tea
+,Complimentary newspaper delivered to room
+,Complimentary newspaper in lobby
+,Complimentary self service laundry
+,Complimentary shoeshine
+,Complimentary wireless internet
+,Concierge breakfast
+,Concierge desk
+,Concierge floor
+,Concierge lounge
+,Conference facilities
+,Connecting rooms
+,Continental breakfast
+,Courtesy car
+,Courtyard
+,Currency exchange
+,Data port
+,Deluxe continental breakfast
+,Desk with electrical outlet
+,Dietician
+,Dinner delivery service from local restaurant
+,Dinner served in restaurant
+,Direct dial telephone
+,Disco
+,Doctor on call
+,Door man
+,Driving range
+,Drugstore/pharmacy
+,Dry cleaning
+,Duty free shop
+,DVD/video rental
+,DVDs/videos - children
+,Early check in guarantee
+,Early check-in
+,Efolio available to company
+,Electric car charging stations
+,Elevators
+,Evening reception
+,Events ticket service
+,Executive floor
+,Exercise gym
+,Exhibition/convention floor
+,Express check-in
+,Express check-out
+,Exterior corridors
+,Family plan
+,Fax service
+,Female traveler room/floor
+,Ferry
+,Fire safety compliant
+,Fitness center
+,Florist
+,Folios
+,Food and beverage discount
+,Food and beverage outlets
+,Free airport shuttle
+,Free high speed internet connection
+,Free parking
+,Free transportation
+,Front desk
+,Full american breakfast
+,Full meal plan
+,Full service housekeeping
+,Game room
+,Garden lounge bar
+,Gas station
+,Gift/News stand
+,Golf
+,Gourmet highlights
+,Great room
+,Grocery shopping service available
+,Grocery store
+,Guestroom wired internet
+,Guestroom wireless internet
+,Gulf view
+,Hair dryer
+,Hairdresser/barber
+,Halal food available
+,Health and beauty services
+,Health club
+,Hearing impaired services
+,Heated guest rooms
+,Heated pool
+,Helicopter service
+,High speed internet access
+,High speed internet access for laptop in public areas
+,High speed wireless
+,Horseback riding
+,Hot breakfast
+,Hot continental breakfast
+,Hotel does not provide pornographic films/TV
+,Hotspots
+,Housekeeping - daily
+,Housekeeping - weekly
+,Hypoallergenic rooms
+,Ice machine
+,Incoming fax
+,Individual Efolio available
+,Indoor parking
+,Indoor pool
+,Interior corridors
+,Internet browser On TV
+,Internet services
+,Ironing board
+,Jacuzzi
+,Jogging track
+,Kennels
+,Kitchenette
+,Kosher food available
+,Late check out guarantee
+,Late check-in
+,Late check-out available
+,Laundry/Valet service
+,Limited parking
+,Limited service housekeeping
+,Limousine service
+,Liquor store
+,Live entertainment
+,Loading dock
+,Lobby
+,Lobby coffee service
+,Locker room
+,Long term parking
+,Lounges/bars
+,Luggage service
+,Lunch served in restaurant
+,Managers reception
+,Massage services
+,Meal plan available
+,Medical Facilities Service
+,Meeting rooms
+,Men's clothing
+,Modified american meal plan
+,Motorcycle parking
+,Movies in room
+,Multilingual staff
+,Multiple phone lines billed separately
+,Newspaper
+,Nightclub
+,No parking available
+,Non-alcoholic beverages
+,Non-smoking rooms (generic)
+,Oceanfront
+,Office rental
+,Off-Site parking
+,Onsite laundry
+,On-Site parking
+,Outdoor parking
+,Outdoor pool
+,Outdoor summer bar/cafe
+,Outgoing fax
+,Package/Parcel services
+,Parking
+,Parking - controlled access gates to enter parking area
+,Parking - controlled access gates to enter parking area
+,Parking deck
+,Parking fee managed by hotel
+,Parking lot
+,Parlor
+,Pet amenities available
+,Pets allowed
+,Pet-sitting services
+,Pharmacy
+,Phone services
+,Photocopy center
+,Piano
+,Piano Bar
+,Playground
+,Pool
+,Poolside service
+,Poolside snack bar
+,Prayer mats
+,Printing services available
+,Private bath or shower
+,Private dining for groups
+,Private pool
+,Public address system
+,Public area air conditioned
+,Racquetball
+,Ramp access
+,Recreational vehicle parking
+,Restaurant
+,Roof terrace
+,Room air filtration
+,Room service
+,Room service - full menu
+,Room service - limited hours
+,Room service - limited menu
+,Room upgrade confirmed
+,Room upgrade on availability
+,Safe deposit box
+,Same gender floor
+,Sauna
+,Secretarial service
+,Secured parking
+,Security
+,Semi-private space
+,Shoe shine stand
+,Shopping mall
+,Shops and commercial services
+,Shuttle to local attractions
+,Shuttle to local businesses
+,Smoke-free property
+,Snack bar
+,Snow skiing
+,Snow sports
+,Social hour
+,Solarium
+,Spa
+,Sports bar
+,Sports bar open for dinner
+,Sports bar open for lunch
+,Sports trainer
+,Stables
+,Stairwells
+,Steam bath
+,Storage space
+,Storage space available - fee
+,Street side parking
+,Summer terrace
+,Sundry/Convenience store
+,Tapas bar
+,Technical concierge
+,Telephone jack adaptor available
+,Tennis court
+,Thalassotherapy
+,Theatre desk
+,Toilet
+,Tour/sightseeing desk
+,Train access
+,Translation services
+,Transportation
+,Transportation services - local area
+,Transportation services - local office
+,Travel agency
+,Truck parking
+,Turndown service
+,Type of entrances to guest rooms
+,Umbrellas
+,Valet cleaning
+,Valet parking
+,Valet same day dry cleaning
+,Vending machines
+,Video billing
+,Video checkout
+,Video game player
+,Video games
+,Video review billing
+,Video tapes
+,VIP security
+,Wakeup service
+,Water purification system in use
+,Water skiing
+,Water sports
+,Wedding services
+,Welcome drink
+,Welcome gift
+,Wheelchair access
+,Whirlpool
+,Winter terrace
+,Wireless internet connection in public areas
+,Women's clothing

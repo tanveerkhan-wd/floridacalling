@@ -1,0 +1,3 @@
+name,price,Nights/Duration,Set Save Amount,"hotel_rating(2,3,4,5)","Hotel Type( International Drive Top Hotels=1, Top Villa Communities= 2, Disney = 3, Universal =4)",Descripton,Guests,Ta Rating,Total Review,Excelent Review,Very Good,Average,Poor,Terrible,Sleep Quality(reuired rating id),Location(reuired rating id),Rooms(reuired rating id),Service(reuired rating id),Value(reuired rating id),Cleanliness(reuired rating id),latitude,longitude,address
+testing 1123,234,1,12,4,1,this is testing,12,4,30000,10000,10000,3000,2000,5000,4,5,4,5,5,4,3243244,3242341,testing test
+testing new,240,1,22,4,2,this is testing,2,5,30000,10000,10000,3000,2000,5000,4,5,4,5,5,4,3243244,3242341,testing test
